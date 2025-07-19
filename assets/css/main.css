@@ -1941,13 +1941,13 @@ p {
   color: #fff;
 }
 
-.client-logo-section .client-logo-wrapper .client-logo-carousel .client-logo {
+.skill-logo-section .skill-logo-wrapper .skill-logo-carousel .skill-logo {
   padding: 10px;
   text-align: center;
   margin: auto;
 }
 
-.client-logo-section .client-logo-wrapper .client-logo-carousel .client-logo img {
+.skill-logo-section .skill-logo-wrapper .skill-logo-carousel .skill-logo img {
   max-width: 220px;
   width: 100%;
   opacity: .3;
@@ -1955,7 +1955,7 @@ p {
   transition: all 0.3s ease-out 0s;
 }
 
-.client-logo-section .client-logo-wrapper .client-logo-carousel .client-logo img:hover {
+.skill-logo-section .skill-logo-wrapper .skill-logo-carousel .skill-logo img:hover {
   opacity: 1;
 }
 
