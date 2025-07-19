@@ -48,7 +48,7 @@
 
 	//======== tiny slider
 tns({
-		container: '.client-logo-carousel',
+		container: '.skill-logo-carousel',
 		slideBy: 'page',
 		autoplay: true,
 		autoplayButtonOutput: false,
